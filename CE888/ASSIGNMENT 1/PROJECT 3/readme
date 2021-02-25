@@ -1,0 +1,15 @@
+Download data from https://data.police.uk/data/.  
+Upload .csv file in code
+Import Dataset from .csv file
+Show columns
+Show data information and crime type counts
+Check for null Value
+Check for unique value in Last outcome statement
+replace null value with 0
+Replace characteristic value with zero event
+Replace Null value with Forward fill
+Display Crime Type according to longitude
+check the average crime according to Crime Report through longitude
+Check LSOA Code & LSOA Name values counts
+LSOA Name is Nominal Categorical data so i performed HotEncoding
+Drop coloumn which is irrelevant
